@@ -1,2 +1,2 @@
 # examination.
-# learing github
+# learning github
